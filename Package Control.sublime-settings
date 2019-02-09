@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"downloader_precedence":
+	{
+		"linux":
+		[
+			"curl",
+			"urllib",
+			"wget"
+		],
+		"osx":
+		[
+			"curl",
+			"urllib"
+		],
+		"windows":
+		[
+			"wininet"
+		]
+	},
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Babel",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Emoji",
+		"GitGutter",
+		"HTML Boilerplate",
+		"Package Control",
+		"React IDE",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-tslint",
+		"TypeScript"
+	]
+}
